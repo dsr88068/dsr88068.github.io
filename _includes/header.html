@@ -15,15 +15,7 @@
                     </a>
                 {% endif %}
                 <!-- email -->
-                {% if site.email != ""%}
-                    <a class="header_btn" href="mailto://{{ site.email }}">
-                        <i class="fa fa-envelope-square">
-                            {% if page.btn_text != false %}
-                                <p class="btn_text">Email</p>
-                            {% endif %}
-                        </i>
-                    </a>
-                {% endif %}
+
                 <!-- github -->
                 {% if site.github != "" %}
                     <a class="header_btn" href="https://github.com/{{ site.github }}">
