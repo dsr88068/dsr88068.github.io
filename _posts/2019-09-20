@@ -1,0 +1,8 @@
+---
+title: Blog 1
+layout: post
+category: Blog
+toc_level: 1
+date: 2019-9-20
+---
+In this week's blog we were working on ansible which is an automated coding system that will allow tasks and other items to be ran without any input. For our lab we had to automate a user creation f allow certain access for certain groups and deny access for the other groups. I thought it was pretty easy I didn't get stuck on too many of the parts. It did take a lot of research for me to figure out  ansible and there is a lot of documentation about it.  I thought it was a pretty easy system to work with as far as yml.  I didn't really have any problems with the task and using the  certain syntax. It seemed to work pretty fine in my instance.I have to start on playbook #2 but I am concerned that I will not know how to make  certain codes that require input from user . I am sure there's a way that it can be flagged to be bypassed for that code but I have yet to do any research . I am not too worried about it but I know there's other code that I need to learn how to copy and curl for certain commands that are required. In the end I thought ansible was pretty easy to learn and a lot of fun. It  seems that ansible would be a better tool for automation compared to dockerfile. That would just be my opinion , I am not a professional .
