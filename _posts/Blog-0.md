@@ -23,11 +23,10 @@ The part of the command that allows for this cluster to be exposed to the outsde
 minikube service hello-node
 
 This will show  apllaciotn through the load blance with the help of  the minikube service.
-
-you then will get the reuslt of this web page:
+You then will get the reuslt of this web page:
 
 ![Hello Wolrd!](/assets/img/Hello.jpg)
 
 
 
-This is the Hello Wolrd ! Training Lab
+This is the Hello Wolrd ! training Lab
